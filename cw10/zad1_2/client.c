@@ -219,11 +219,12 @@ void start_work(){
                 break; //ignore
             }
             case ORDER:{
+                expression ex;
                 #ifdef TCP
                 receive_all(sd, &ex, sizeof(ex), 0, NULL, NULL); //receive experssion message
-                expression ex = beextoh(ex); //big endian experssion to host
+                ex = beextoh(ex); //big endian experssion to host
                 #else //UDP
-                expression ex = beextoh(messag.data.exp);
+                ex = beextoh(messag.data.exp);
                 #endif //TCP, UDP
 
                 expression_result result = compute(ex);

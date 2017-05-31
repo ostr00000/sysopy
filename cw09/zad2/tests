@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#num of writers
+for (( i=1; $i < 100; i=i*2 )) ; do    
+    #times_to_write 
+    for (( j=1; $j < 100; j=j*2 )); do
+        #num_of_readers 
+        for (( k=1; $k < 100; k=k*2 )) ; do
+            #times_to_read
+            for (( l=1; $l < 100; l=l*2 )) ; do
+                ./zad2 $i $j $k $l >> /dev/null
+                echo "test ./zad2 $i $j $k $l successful"
+            done
+        done
+    done
+done
+  

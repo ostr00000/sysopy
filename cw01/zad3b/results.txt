@@ -1,0 +1,220 @@
+flaga kompilacji  O1
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.03000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+
+
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01600     czas urzytkownika = 0.01600    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.03100     czas urzytkownika = 0.01600    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.03100     czas urzytkownika = 0.01600    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.03100     czas urzytkownika = 0.01600    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.01600    czas systemowy = 0.00000
+
+
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+
+
+flaga kompilacji  O2
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+
+
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+
+
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+
+
+flaga kompilacji  O3
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.01500
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.01500
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.01500
+
+
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+
+
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.01600     czas urzytkownika = 0.01600       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.03100     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.04600     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+
+
+flaga kompilacji  Os
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.01500    czas systemowy = 0.00000
+
+
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+
+
+utworzenie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie listy   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+utworzenie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+wstawianie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+wstawianie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+sortowanie drzewa   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000       czas systemowy = 0.00000
+szukanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+szukanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.01500     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku optymistycznym trwalo:   czas rzeczywisty = 0.00000     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+usuwanie w przypadku pesymistycznym trwalo:   czas rzeczywisty = 0.03100     czas urzytkownika = 0.00000    czas systemowy = 0.00000
+
+

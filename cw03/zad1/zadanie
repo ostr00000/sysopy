@@ -1,0 +1,15 @@
+#ala ma
+
+#kota 100
+gcc -o printArgsPid printArgsPid.c
+ls
+./printArgsPid ala nie ma kota
+./printArgsPid 1 2 3 4 5 6 7 8 9 10 11 12
+./printArgsPid text "text" text space "text space"
+rm printArgsPid
+ls
+./printEnv PATH
+./printEnv ala
+#ala
+./printEnv ala
+cat zadanie

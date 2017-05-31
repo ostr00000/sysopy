@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [ $# -eq 1 ] && [ $1 -gt 0 ] 
+then
+    s=$(( $1 * 2 ))
+    a=$(( $1 * 1 ))
+    x="set term jpeg  size $s,$a;set output 'output.jpeg';set view map; set xrange [0:$1];set yrange [0:$1];plot 'data' with image;set term postscript landscape enhanced color dashed 'Helvetica' 14 ;set output 'printme.ps';replot"
+    echo "start gnuplot with args:" $x
+    gnuplot -e "$x"
+    
+else
+    echo "wrong arg: generated_range"
+
+fi

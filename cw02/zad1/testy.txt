@@ -1,0 +1,160 @@
+
+real	0m1.270s
+user	0m0.072s
+sys	0m0.432s
+sys sort  500 4
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.004s
+sys shuffle  500 4
+
+real	0m1.666s
+user	0m0.176s
+sys	0m0.516s
+lib sort  500 4
+
+real	0m0.024s
+user	0m0.000s
+sys	0m0.008s
+lib shuffle  500 4
+
+real	0m3.317s
+user	0m0.204s
+sys	0m1.160s
+sys sort  1000 4
+
+real	0m0.038s
+user	0m0.004s
+sys	0m0.004s
+sys shuffle  1000 4
+
+real	0m4.429s
+user	0m0.488s
+sys	0m1.328s
+lib sort  1000 4
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.020s
+lib shuffle  1000 4
+
+real	0m0.911s
+user	0m0.040s
+sys	0m0.320s
+sys sort  400 512
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.004s
+sys shuffle  400 512
+
+real	0m0.985s
+user	0m0.080s
+sys	0m0.332s
+lib sort  400 512
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.004s
+lib shuffle  400 512
+
+real	0m2.287s
+user	0m0.120s
+sys	0m0.816s
+sys sort  800 512
+
+real	0m0.029s
+user	0m0.000s
+sys	0m0.008s
+sys shuffle  800 512
+
+real	0m2.958s
+user	0m0.132s
+sys	0m1.156s
+lib sort  800 512
+
+real	0m0.034s
+user	0m0.000s
+sys	0m0.012s
+lib shuffle  800 512
+
+real	0m0.560s
+user	0m0.016s
+sys	0m0.204s
+sys sort  300 4096
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.004s
+sys shuffle  300 4096
+
+real	0m0.636s
+user	0m0.024s
+sys	0m0.232s
+lib sort  300 4096
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.004s
+lib shuffle  300 4096
+
+real	0m1.803s
+user	0m0.024s
+sys	0m0.692s
+sys sort  600 4096
+
+real	0m0.022s
+user	0m0.000s
+sys	0m0.004s
+sys shuffle  600 4096
+
+real	0m2.181s
+user	0m0.096s
+sys	0m0.824s
+lib sort  600 4096
+
+real	0m0.022s
+user	0m0.000s
+sys	0m0.008s
+lib shuffle  600 4096
+
+real	0m0.422s
+user	0m0.008s
+sys	0m0.140s
+sys sort  200 8192
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.004s
+sys shuffle  200 8192
+
+real	0m0.446s
+user	0m0.012s
+sys	0m0.152s
+lib sort  200 8192
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.004s
+lib shuffle  200 8192
+
+real	0m1.466s
+user	0m0.040s
+sys	0m0.484s
+sys sort  400 8192
+
+real	0m0.025s
+user	0m0.000s
+sys	0m0.008s
+sys shuffle  400 8192
+
+real	0m1.478s
+user	0m0.052s
+sys	0m0.496s
+lib sort  400 8192
+
+real	0m0.024s
+user	0m0.004s
+sys	0m0.004s
+lib shuffle  400 8192

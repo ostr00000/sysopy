@@ -1,0 +1,3 @@
+Fukcja shuffle ma zlozonosc liniowa, wiec otrzymane wyniki nie dostarczaja wielu informacj, fukcja sort uzywa sortowania bombelkowego wiec ma zlozonosc n^2 - mozna zauwazyc roznice miedzy uzyciem funkcji systemowych, a uzyciem funkcji z bibliotek.
+Funkcje systemowe zawsze wykonaly polecenie szybciej. Jednak mozna zauwazyc, ze wraz ze wzrosem dlugosci rekordow roznica jest coraz mniej widoczna.
+

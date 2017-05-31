@@ -1,0 +1,35 @@
+Linux ostro-Lenovo-Y50-70 4.4.0-77-generic #98-Ubuntu SMP Wed Apr 26 08:34:02 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+
+
+1.Sygnal do procesu, zaden watek nie ma maskowanego sygnalu
+    SIGUSR1 - jeden z watkow dostaje sygnal i program sie konczy
+    SIGTERM - jeden z watkow dostaje sygnal i program sie konczy
+    SIGKILL - jeden z watkow dostaje sygnal i program sie konczy
+    SIGSTOP - jeden z watkow dostaje sygnal i program sie konczy
+
+2.Sygnal do procesu, glowny watek maskuje sygnal
+    SIGUSR1 - jeden z watkow (nie glowny) dostaje sygnal i watek konczy sie
+    SIGTERM - jeden z watkow (nie glowny) dostaje sygnal i watek konczy sie
+    SIGKILL - nie mozna maskowac
+    SIGSTOP - nie mozna maskowac
+
+3.Sygnal do procesu, wszystkie watki obsluguja sygnal
+    SIGUSR1 - watek glowny dostaje sygnal
+    SIGTERM - watek glowny dostaje sygnal
+    SIGKILL - nie mozna maskowac
+    SIGSTOP - nie mozna maskowac
+
+4.Sygnal do watku, watek ma zamaskowany syganl
+    SIGUSR1 - sygnal nie wplywa na watek
+    SIGTERM - sygnal nie wplywa na watek
+    SIGKILL - nie mozna maskowac
+    SIGSTOP - nie mozna maskowac
+
+5.Sygnal do watku, watek ma obsluge syganlu
+    SIGUSR1 - watek obsluguje sygnal
+    SIGTERM - watek obsluguje sygnal
+    SIGKILL - nie mozna maskowac
+    SIGSTOP - nie mozna maskowac
+
+6.Dzielenie przez 0
+    Gdy w jednym z watkow wystapi dzielenie przez 0 caly program konczy sie
